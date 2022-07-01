@@ -1,4 +1,4 @@
-# TypeScript 
+ # <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;  TypeScript 
 #### A guide to some typescript concepts
 
 ---
