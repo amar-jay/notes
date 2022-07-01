@@ -1,7 +1,7 @@
-#TypeScript 
+# TypeScript 
 #### A guide to some typescript concepts
 
-It has some Syntaxes Such as Generics
+---
 
 ### Generics
 
