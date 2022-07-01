@@ -1,4 +1,4 @@
-# Regular Expressions
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OOjs_UI_icon_regular-expression.svg/1024px-OOjs_UI_icon_regular-expression.svg.png" /> Regular Expressions
 Some concepts of regex
 
 ---
